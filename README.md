@@ -108,17 +108,13 @@ else:
 ```
 ## Sample Input and Output:
 
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2015-37-51.png![image](https://user-images.githubusercontent.com/119395610/212870352-fbfe3d73-7940-46a4-a417-2dc3cab6fdbc.png)
+![WhatsApp Image 2023-01-22 at 18 08 07](https://user-images.githubusercontent.com/119395610/213916309-fcd1e6ca-ff75-4038-b435-2ca6ac2d8f8b.jpg)
+![WhatsApp Image 2023-01-22 at 18 08 18](https://user-images.githubusercontent.com/119395610/213916317-b1bda320-585f-47f6-8fcf-5dcadab42cb1.jpg)
+![WhatsApp Image 2023-01-22 at 18 08 29](https://user-images.githubusercontent.com/119395610/213916326-342aa014-5994-4a8f-8112-1a21612544c6.jpg)
+![WhatsApp Image 2023-01-22 at 18 08 39](https://user-images.githubusercontent.com/119395610/213916340-3d3010c7-c508-468c-8d34-c36674b71058.jpg)
+![WhatsApp Image 2023-01-22 at 18 08 49](https://user-images.githubusercontent.com/119395610/213916351-9c8c5874-b490-4118-8ba7-3602201727d0.jpg)
+![WhatsApp Image 2023-01-22 at 18 08 57](https://user-images.githubusercontent.com/119395610/213916357-f1314293-39fa-45cb-b4c3-d5ef2e27468f.jpg)
 
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2015-38-03.png![image](https://user-images.githubusercontent.com/119395610/212870448-d51be700-b27c-49a7-8b19-1d8fab29db8e.png)
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2015-38-18.png![image](https://user-images.githubusercontent.com/119395610/212870862-f563ac89-27a3-492a-9ae2-ae1a0d5b64bd.png)
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2015-38-27.png![image](https://user-images.githubusercontent.com/119395610/212870929-b3b5e9bc-a6d1-436b-b16b-aa5bade9c38f.png)
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2015-39-19.png![image](https://user-images.githubusercontent.com/119395610/212870991-8dd2be2c-0476-4f5f-9f5a-5e1a1c99a7f8.png)
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2015-39-38.png![image](https://user-images.githubusercontent.com/119395610/212871084-1278a25b-3b4c-4b91-a11d-13c77e4d5554.png)
 
 
 
